@@ -216,7 +216,7 @@ void printMenu()
 	cout << "1. Add a ticket number to the sorted set." << endl;
 	cout << "2. Delete a ticket number from the sorted set." << endl;
 	cout << "3. Display the sorted set in increasing order." << endl;
-	cout << "4. Intersectie seturi." << endl;
+	cout << "4. Intersection of sets." << endl;
 	cout << "0. ...exit." << endl;
 }
 
